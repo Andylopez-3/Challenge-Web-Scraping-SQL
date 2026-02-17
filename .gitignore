@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Base de datos
+*.db
+
+# Datos generados
+*.json
+#archivos de prueba
+SCRAP.ipynb
+scrapin.ipynb
